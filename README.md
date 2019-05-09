@@ -1,6 +1,7 @@
 # ReactNativeMusicApp
 
 Library and version for MusicApp:
+
     "react-native-elements": "^1.1.0",
     
     "react-native-gesture-handler": "^1.2.1",
